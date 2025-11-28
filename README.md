@@ -54,10 +54,6 @@ Heaps are essential for:
 - Median maintenance in streaming data
 - Merge K sorted arrays
 
-## 🔗 Repository
-
-[github.com/Princekr267/heap-algorithms](https://github.com/Princekr267/heap-algorithms)
-
 ---
 
 **Author**: Princekr267  
